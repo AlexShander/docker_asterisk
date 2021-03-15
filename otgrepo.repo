@@ -1,0 +1,5 @@
+[otgrepo]
+name=OTR Asterisk
+baseurl=http://voiprepo.575111.kz:9191/otgrepo/
+gpgcheck=0
+enabled=1
